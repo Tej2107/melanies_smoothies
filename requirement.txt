@@ -1,3 +1,4 @@
 # requirements.txt
+pip install snowflake-snowpark-python
 snowflake-snowpark-python
 streamlit
