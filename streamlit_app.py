@@ -1,6 +1,5 @@
 # Import python packages
 import streamlit as st
-pipinstall snowflake-snowpark-python
 from snowflake.snowpark.functions import col
 
 # Write directly to the app
